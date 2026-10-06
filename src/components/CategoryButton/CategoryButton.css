@@ -1,0 +1,1 @@
+.category-chip{border:1px solid var(--border);background:#fffefb;color:var(--muted);padding:11px 21px;border-radius:100px;white-space:nowrap;font-size:13px;font-weight:600;transition:background .18s,color .18s,border-color .18s}.category-chip:hover{border-color:#a68bbb;color:var(--purple)}.category-chip.is-selected{background:var(--purple);border-color:var(--purple);color:white}
